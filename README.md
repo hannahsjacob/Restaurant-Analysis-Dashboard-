@@ -2,6 +2,7 @@
 
 An interactive data analytics project that explores Bangalore restaurant data to uncover insights into customer ratings, restaurant pricing, popular cuisines, and dining trends.
 
+
 **Project Overview**
 
 This project combines exploratory data analysis (EDA) with an interactive dashboard to make restaurant data easier to understand. Python and Pandas are used for data cleaning and analysis, while Streamlit and Plotly power the dashboard and visualizations.
@@ -15,6 +16,7 @@ Exploratory Data Analysis: Examined restaurant ratings, pricing, and cuisine tre
 Interactive Dashboard: Visualized key metrics and patterns using charts and filters.
 
 Business Insights: Explored factors that help describe restaurant performance and customer preferences.
+
 
 🛠️ **Technologies Used**
 
@@ -30,9 +32,11 @@ Google Colab
 
 Visual Studio Code (VS Code)
 
+
 **Dataset**
 
 The dataset is not included in this repository. To reproduce the analysis, obtain the original Bangalore restaurant dataset from its source and place it in the appropriate project directory.
+
 
 **Project Goals**
 
