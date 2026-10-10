@@ -1,4 +1,4 @@
-🍽️** Restaurant Analytics Dashboard**
+🍽️ **Restaurant Analytics Dashboard**
 
 An interactive data analytics project that explores Bangalore restaurant data to uncover insights into customer ratings, restaurant pricing, popular cuisines, and dining trends.
 
@@ -16,7 +16,7 @@ Interactive Dashboard: Visualized key metrics and patterns using charts and filt
 
 Business Insights: Explored factors that help describe restaurant performance and customer preferences.
 
-🛠️** Technologies Used**
+🛠️ **Technologies Used**
 
 Python
 
